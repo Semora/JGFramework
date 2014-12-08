@@ -1,5 +1,5 @@
-SharifEngine
+JGFramework
 ============
 
-An engine for creating simple multi player network game.
+A Framework for creating simple multi player network game.
 This framework is developed for Java Challenge 2015.
